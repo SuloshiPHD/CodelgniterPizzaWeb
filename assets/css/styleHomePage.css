@@ -1,0 +1,51 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 26, 2020, 5:08:53 PM
+    Author     : Duneesha Suloshini
+*/
+
+header.headerhome{
+    background:#cc3300;
+    height: 850px;
+}
+
+header .row .col-md-7 {
+    padding: 7vmin 7vmin;
+    padding-bottom: 3vmin;
+}
+
+header .row .col-md-5 {
+    padding: 4.2vmin 0vmin;
+
+}
+
+header .row .col-md-5 img {
+    width: 90%;
+}
+
+
+h4.homedesc{
+    font-family: 'Sofia', cursive;
+    color: yellow;
+    padding-top: 10vmin;
+    padding-bottom: 5vmin;
+    font-size: 25px;
+
+
+}
+
+body {
+    padding-top: 0px;  
+
+}
+h1.homeh1{
+    color: whitesmoke;
+    font-family: 'Amatic SC', cursive;
+    font-size: 80px;
+}
+
+

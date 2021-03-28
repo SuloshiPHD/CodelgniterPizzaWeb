@@ -1,0 +1,50 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 24, 2020, 9:26:16 AM
+    Author     : Duneesha Suloshini-2017336
+*/
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Finger Paint');
+
+#footer {
+    font-family: 'Amatic SC', cursive;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: rgba(141, 139, 141, 0.35);
+    text-align: center;
+    width: 100%;
+    padding-bottom: 0;
+}
+
+
+
+.nav-container {
+    padding-bottom: 0;
+}
+
+.navbar-brand {
+    font-family: 'Finger Paint', cursive;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+
+.navbar-text {
+/*    float: none;
+    font-family: 'Amatic SC', cursive;
+    font-weight: bold;
+    font-size: 20px;*/
+}
+
+#brand-image{
+    height:30px;
+}
+
+
+

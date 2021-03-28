@@ -1,0 +1,105 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 26, 2020, 3:42:48 PM
+    Author     : Duneesha Suloshini
+*/
+
+body,html
+{
+    /*  background-color: black;*/
+    box-sizing: border-box;
+
+}
+
+
+.section-2{
+    background: linear-gradient(to bottom, #004e92 0%, #000428 100%);
+    color: whitesmoke;
+
+
+}
+.section-2 .container h2 {
+    font-size: 6vmin;
+    padding-top: 5vmin;
+    color: #faa;
+    font-family:'Delius Unicase';font-size: 42px;
+    text-align: center;
+}
+
+
+.section-2 .container p {
+    font-size: 4vmin;
+    padding-top: 2vmin;
+    color: yellow;
+}
+
+.single-blog
+{
+    box-shadow: 0px opx 20px 1px rgba(0,0,0,0.2);
+    padding:10px;
+    margin-top:30px;
+    background: linear-gradient(to top, #360033 0%, #0b8793 100%);
+    border: 1px solid blue;
+    box-sizing: border-box;
+
+}
+
+.single-blog img
+{
+    width: 100%;
+
+}
+
+.single-blog h2 card-title
+{
+    margin-top: 10px;
+    font-size: 16px;
+    color:#007bff;
+}
+
+.blog-text
+{
+    font-size: 14px;
+    text-align: center;
+    color: white;
+}
+
+.single-blog h2{
+    margin-top: 10px;
+    font-size: 16px;
+    color:white;
+}
+
+.read-more-btn
+{
+    background-image: linear-gradient(to bottom, #cc99ff 0%, #9999ff 100%);
+    padding:5px 12px 8px;
+    border-radius: 20px;
+    line-height: 20px;
+    font-size: 14px;
+    color:white;
+    border: none!important;
+    float: center;    
+    text-align: center; 
+    margin: auto; 
+    display: flex; 
+    display: grid;
+    font-family:'Delius Unicase';
+
+
+}
+
+
+.read-more-btn:hover
+{
+    background-image: linear-gradient(to right, #006417,#00b128);
+    text-decoration: none;
+    color:#fff;
+
+
+}
+
