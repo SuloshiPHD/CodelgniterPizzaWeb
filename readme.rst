@@ -1,3 +1,12 @@
+*******************
+Development of web application for pizza delivery company PizzaNow!
+*******************
+Display a menu : 
+The menu consists of a selection of pizzas, such as margherita, pepperoni, meat delight, veggie delight,breakfast special etc. Pizzas can be customized by adding toppings.Pizzas come in three sizes – small, medium and large. There are sides (potato wedges, coleslaw etc.), and there are special meal deals (combinations of different pizzas, sides and drinks). All items should be displayed with appropriate prices.
+Take an order : 
+The customer should be able to add items to their order. If they order a pizza, they should be able to customize any pizza by adding toppings when ordering. When they added an item to their order, they should be shown the order page to see the current order and confirm the addition of an item to that order. They should be able then to click on the menu to choose new items. The order should be editable (e.g., to delete an item). When they have finished, their order should be displayed with items, prices and final total. When they are finished, they should be prompted for their address and phone number, and told when their order will be delivered (this should be 30 minutes from the time they submit their order)
+
+
 ###################
 What is CodeIgniter
 ###################
